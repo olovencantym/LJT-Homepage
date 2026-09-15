@@ -13,3 +13,5 @@ excerpt: 'First author paper on universal truthfulness hyperplane inside LLMs.'
 *Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He
 
 EMNLP 2024
+
+[[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
