@@ -47,11 +47,11 @@ My research focuses on natural language processing and machine learning, with sp
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
    *Junteng Liu*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
-   arXiv
+   arXiv [[Code]](https://github.com/Vicent0205/Vision4Chart)
 
 3. **On the Universal Truthfulness Hyperplane Inside LLMs**  
    *Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He  
-   EMNLP 2024
+   EMNLP 2024 [[Code]](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
 
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**  
    Shiqi Chen, Miao Xiong, *Junteng Liu*, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He  
